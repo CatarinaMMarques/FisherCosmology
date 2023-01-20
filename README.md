@@ -11,9 +11,7 @@ The structure of this repository is as follows:
 
 - **Main:** Definition of the scaled Hubble parameter, fisher matrices, ellipses, figures of merit, correlation coefficients and uncertainties at 1-sigma.
 - **RedshiftDrift:** Calculation of the spectroscopic velocities and respective uncertainties, identification of the redshift bins and uncertainties and also the priors. Definition of the fisher matrices considering redshift drift measurements only.
-<br>
 - **AlphaVariation:** Calculation of the $\alpha$ variation, identification of priors, redshift measurements and uncertainties. Definition of the fisher matrices for the $\alpha$ variation. 
-<br>
 - **RedshiftDriftAlphaVariation:** Definition of 7x7 matrices for the combination of redshift drift and $\alpha$ measurements.
 
 
