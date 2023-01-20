@@ -1,6 +1,7 @@
 # FRIDDA  - Fisher foRecast code for combIned reDshift Drift and Alpha
 
 Forecasting code, based on Fisher Matrix Analysis techiques, for the cosmological impact of redshift drift and fine-structure constant, $\alpha$, measurements as well as their combination. The final output of the code is the forecast of the measurements combination for the ArmazoNes high Dispersion Echelle Spectrograph (ANDES), instrument of the future Extremely Large Telescope (ELT) for two fiducial models - Bekenstein and Chevallier-Polarski-Linder (CPL) parametrization of dark energy. More details of the performed forecast and discussion of the results can be found at (article under revision).
+
 ---
 
 ## Code Structure
