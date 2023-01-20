@@ -10,7 +10,6 @@ Forecasting code, based on Fisher Matrix Analysis techiques, for the cosmologica
 The structure of this repository is as follows:
 
 - **Main:** Definition of the scaled Hubble parameter, fisher matrices, ellipses, figures of merit, correlation coefficients and uncertainties at 1-sigma.
-<br>
 - **RedshiftDrift:** Calculation of the spectroscopic velocities and respective uncertainties, identification of the redshift bins and uncertainties and also the priors. Definition of the fisher matrices considering redshift drift measurements only.
 <br>
 - **AlphaVariation:** Calculation of the $\alpha$ variation, identification of priors, redshift measurements and uncertainties. Definition of the fisher matrices for the $\alpha$ variation. 
