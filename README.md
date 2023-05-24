@@ -25,4 +25,4 @@ The current code is based on the C. S. Alves code available at [fisher-forecast]
 
 If you use FRIDDA in your work please cite:
 
-Marques, C.M.J., Martins, C.J.A.P.,  Alves, C.S.,  Fundamental cosmology from ANDES precision spectroscopy, Monthly Notices of the Royal Astronomical Society, 2023;, stad1359, https://doi.org/10.1093/mnras/stad1359
+Marques, C.M.J., Martins, C.J.A.P.,  Alves, C.S., Fundamental cosmology from ANDES precision spectroscopy, Monthly Notices of the Royal Astronomical Society, Volume 522, Issue 4, July 2023, Pages 5973–5979, https://doi.org/10.1093/mnras/stad1359
